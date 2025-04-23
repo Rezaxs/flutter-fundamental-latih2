@@ -8,4 +8,4 @@ Ini adalah project flutter 2 Reza Prasasti 230444040006
 
 Sedangkan, berikut adalah sususan hierarki layout
 
-![layout](images/hierarki_layout_reza.png)
+![layout](images/hierarki_layout_reza.jpg)
